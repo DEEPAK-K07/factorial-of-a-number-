@@ -48,7 +48,7 @@ END
 ```
 OUTPUT
 
-<img width="1206" height="236" alt="image" src="https://github.com/user-attachments/assets/23b30d4a-3b47-4c4c-b9cb-4442b12b3b92" />
+<img width="1282" height="440" alt="image" src="https://github.com/user-attachments/assets/391a0331-f3e0-4812-93a3-2a132def3fe7" />
 
 ---
 MANUAL CALCULATIONS
